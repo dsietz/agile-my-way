@@ -4,7 +4,7 @@ By visiting the website, you will find the Manifestos and supporting Principles 
 material and training necessary to apply agile to these perpectives.
 
 ## Web Site
-<[Agile My Way](https://agilemyway.000webhostapp.com/)
+[Agile My Way](https://agilemyway.000webhostapp.com/)
 
 ## Agile Material
 #### Presentations

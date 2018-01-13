@@ -8,4 +8,5 @@ material and training necessary to apply agile to these perpectives.
 
 ## Agile Material
 #### Presentations
->[Agile Living Seminar Presentation](./doc/Agile Living Seminar.odp)
+>[Agile Living Seminar Presentation (odp)](./doc/Agile%20Living%20Seminar.ppt)
+>[Agile Living Seminar Presentation (ppt)](./doc/Agile%20Living%20Seminar.ppt)

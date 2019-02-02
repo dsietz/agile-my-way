@@ -1,9 +1,9 @@
-[Agile My Way](http://agilemyway.org/) is a repository that provides agile perspectives to living, at home, in schools, and at work. 
+[Agile My Way](https://agilemyway.org/) is a repository that provides agile perspectives to living, at home, in schools, and at work. 
 By visiting the website, you will find the Manifestos and supporting Principles for each perspective. In addition, it provides the tools, 
 material and training necessary to apply agile to these perpectives.
 
 ## Web Site
-[Agile My Way](http://agilemyway.org/)
+[Agile My Way](https://agilemyway.org/)
 
 ## Agile Material
 #### Presentations

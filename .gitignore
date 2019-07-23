@@ -1,3 +1,4 @@
 db/
 web/
 podcast/*.mp3
+backup/

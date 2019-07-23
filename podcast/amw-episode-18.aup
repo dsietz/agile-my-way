@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="amw-episode-18_data" version="1.3.0" audacityversion="2.3.1" sel0="334.3453977192" sel1="334.3453977192" vpos="0" h="331.2832527895" zoom="24.4926356273" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="amw-episode-18_data" version="1.3.0" audacityversion="2.3.1" sel0="0.0000000000" sel1="370.4777777778" vpos="32" h="0.0000000000" zoom="24.4926356273" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ARTIST" value="Agile My Way"/>
-		<tag name="TRACKNUMBER" value="2"/>
+		<tag name="TITLE" value="Episode 18"/>
 		<tag name="COMMENTS" value="Music:&#x00a0;Going Higher - Bensound.com"/>
-		<tag name="TITLE" value="Agile My Way Opening Segment"/>
-		<tag name="ALBUM" value="Agiel My Way"/>
-		<tag name="YEAR" value="2018"/>
+		<tag name="ALBUM" value="Agile My Way"/>
+		<tag name="YEAR" value="2019"/>
+		<tag name="TRACKNUMBER" value="18"/>
 	</tags>
 	<wavetrack name="agile-my-way" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
